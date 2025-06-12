@@ -13,8 +13,10 @@ bug 3 dalam tampilan website
 bug 4, 5 dan beberapa fitur pendafaran bagian jobs terjadi hal yang sama yaitu nomor hp bisa di input selain angka. Berikut tampilan dalam website
 a. Finance Intership page
   ![image](https://github.com/user-attachments/assets/5300a0df-9f32-4273-b3db-894fe2041bed)
+  
 b. Quality Control Page
   ![image](https://github.com/user-attachments/assets/eeaf105d-cbd5-467a-a08c-0c034c332cf6)
+
 c. Bagian Intership Batch terjadi hal yang sama seperti dokumentasi dibawah ini
   ![image](https://github.com/user-attachments/assets/f8ea3781-c7eb-46cf-9ce4-10bb00e0d4f5)
 
